@@ -12,11 +12,11 @@ This project is a classic Snake game implemented in Python. The objective is to 
 - **Game Over Conditions:** The game ends if the snake hits the wall, itself, or if a bomb explodes near it.
 
 ## How to Play
-1. Run the 
+1. Run the game_display.py file.
 2. Use the arrow keys to control the snake.
 3. Eat green fruits to grow in size and increase your score.
 4. Avoid red fruits, walls, and the snake's own body.
-5. The game ends if the snake hits an obstacle or a bomb explodes.
+5. The game ends if the snake hits an obstacle or a bomb explodes near the snake.
 
 ## Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue to discuss improvements or features.
